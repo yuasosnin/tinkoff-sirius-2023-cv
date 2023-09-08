@@ -1,0 +1,9 @@
+transformers
+datasets
+matplotlib
+pillow
+requests
+tqdm
+pandas
+numpy
+scikit-learn
